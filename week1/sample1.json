@@ -1,0 +1,6 @@
+df= pd.read_json('dataset.json')
+{
+    "fruit": "Apple",
+    "size": "Large",
+    "color": "Red"
+}

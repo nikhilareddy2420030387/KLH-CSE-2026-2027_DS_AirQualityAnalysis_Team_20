@@ -1,0 +1,11 @@
+name="klh"
+print("{:<10}".format(name))
+print("{:>10}".format(name))
+print("{:^10}".format(name))
+num=-250
+print("{:=8}".format(num))
+print("{:+}".format(45))
+print("{:+}".format(-45))
+print("{:-}".format(-45))
+num=45.6789
+print("{:f}".format(num))
